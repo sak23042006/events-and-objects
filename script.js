@@ -128,6 +128,7 @@ delete person.phoneno ;
 console.log(person.hasOwnProperty("bike"));
 console.log(person.hasOwnProperty("house"));
 
+
 // 3
 console.log(`Mr ${person.name} travels by plane called by ${person.vehicles.plane}`);
 
